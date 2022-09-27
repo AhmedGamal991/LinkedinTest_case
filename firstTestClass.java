@@ -1,4 +1,4 @@
-package ahmedSelenium;
+package forgetPassword;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
